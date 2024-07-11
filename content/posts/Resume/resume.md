@@ -24,16 +24,13 @@ Java, SQL, Python, Linux, Windows, Computer Hardware, Cyber Defense & Offense, W
 
 American Red Cross Lifeguard, CPR, AED Certificate
 
+## Campus Involvement
 
-## Work Experience
+Competitive Cyber Security Organization: Executive Board Member: Treasurer.
 
-Erie Insurance Group: Cloud Enablement Intern
+Penn State Hillel and Chabad: On Campus Jewish Synoguage.
 
-Penn State IT Service Desk: Tier 1 Support
-
-Penn State College of IST: Learning Assistant IST140
-
-Senior Counselor [Briarwood Day Camp](https://www.briarwooddaycamp.com/)
+Penn State THON OPPerations Committee for THON 2023 + 2024
 
 ## Work Experience
 
