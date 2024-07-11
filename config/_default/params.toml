@@ -48,8 +48,8 @@ defaultBackgroundImage = "beach.jpg" # used as default for background images
 
 [article]
   showDate = true
-  showViews = true
-  showLikes = true
+  showViews = false
+  showLikes = false
   showDateOnlyInArticle = false
   showDateUpdated = true
   showAuthor = true
@@ -73,7 +73,7 @@ defaultBackgroundImage = "beach.jpg" # used as default for background images
   showTaxonomies = true
   showAuthorsBadges = false
   showWordCount = true
-  # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
+  sharingLinks = ["linkedin"]
   showZenMode = false
 
 [list]

@@ -7,6 +7,13 @@ tags: ["Career Development", "About Me"]
 
 This post is dedicated to showing off my current work experience.
 
+## Previous Internships
+
+### Erie Insurance Group: Cloud Enablement Intern
+
+I had the pleasure for the Summer of 2024, after my Sophmore year of college, to be an intern for Erie Insurance. This was an on-site internship located in Erie, PA. My direct title was IT Analyst Intern, but my assignments throughout were signicantly more than just analysis. I worked with various tools and applications such as ServiceNow, App Dynamincs, Aternity, Splunk, and more. I could be found working on various technical projects or working on IT documentation as migrating infrastructure and implementing new tools requres creation of training materials for new hires. 
+
+
 ## On Campus Work
 
 ### Learning Assistant
