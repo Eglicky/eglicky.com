@@ -11,18 +11,20 @@ This post is dedicated to showing off my current work experience.
 
 ### Erie Insurance Group: Cloud Enablement Intern
 
-I had the pleasure for the Summer of 2024, after my Sophmore year of college, to be an intern for Erie Insurance. This was an on-site internship located in Erie, PA. My direct title was IT Analyst Intern, but my assignments throughout were signicantly more than just analysis. I worked with various tools and applications such as ServiceNow, App Dynamincs, Aternity, Splunk, and more. I could be found working on various technical projects or working on IT documentation as migrating infrastructure and implementing new tools requres creation of training materials for new hires. 
+I had the pleasure for the Summer of 2024, after my Sophmore year of college, to be an intern for Erie Insurance. This was an on-site internship located in Erie, PA. My direct title was IT Analyst Intern, withing the Cloud Enablement Department. My assignments throughout my internship were signicantly more than just analysis. I worked with various tools and applications such as ServiceNow, App Dynamincs, Aternity, Splunk, and more. I could be found working on various technical projects or working on IT documentation as migrating infrastructure and implementing new tools requres creation of training materials for new hires. 
 
 
 ## On Campus Work
 
 ### Learning Assistant
 
-I'm proud to serve as a Learning Assistant at [Penn State College of Information Sciences and Technology(IST)](https://ist.psu.edu/), where I support students in their journey through Introduction to Application Development. Beyond simply grading assignments, I offer insightful feedback for their assignments. Additionally, I regularly host office hours, providing guidance to those struggling with the more challenging concepts of the course, specifically in JAVA.
+I am proud to have served as a Learning Assistant at [Penn State College of Information Sciences and Technology(IST)](https://ist.psu.edu/), where I support students in their journey through Introduction to Application Development. Beyond simply grading assignments, I offer insightful feedback for their assignments. Additionally, I regularly host office hours, providing guidance to those struggling with the more challenging concepts of the course, specifically in JAVA.
 
-### IT Service Desk Support Specialist
+### Penn State IT Service Desk
 
 As an [IT Service Desk Support Specialist(ITSD)](https://www.it.psu.edu/support/) and a valuable member of Desk Side and Endpoints Management(DSEM) team, I troubleshoot issues and provide solutions, ensuring that faculty and staff can work seemlesly using Technology with little to no downtime. I also play a pivotal role in DSEM, where I handle the decommissioning of old Computer Hardware, and work on the deployment of cutting-edge devices for PSU employees. Whether it's resolving technical glitches or orchestrating hardware upgrades, I am committed to ensuring that our campus stays at the forefront of innovation, empowering everyone to achieve their best.
+
+As the 2024 school year started I was promoted to the IT Service Desk Student Support Supervisor position. This is a position where I am a supervisor per shift that I lead and work with a team of IT support specialists every shift to help ensure that customers receive the best help they can get. Some individuals may be more well versed in other fields and that is my role to help and support my team.
 
 ## [Briarwood Day Camp]("https://www.briarwooddaycamp.com/")
 

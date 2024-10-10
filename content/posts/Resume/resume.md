@@ -26,11 +26,11 @@ American Red Cross Lifeguard, CPR, AED Certificate
 
 ## Campus Involvement
 
-Competitive Cyber Security Organization: Executive Board Member: Treasurer.
+Competitive Cyber Security Organization: Executive Board Member: Treasurer 2023-2024, Vice President 2024-2025.
 
 Penn State Hillel and Chabad: On Campus Jewish Synoguage.
 
-Penn State THON OPPerations Committee for THON 2023 + 2024
+Penn State THON OPPerations Committee for THON 2023 + 2024 + 2025.
 
 ## Work Experience
 
